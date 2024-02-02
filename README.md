@@ -5,8 +5,8 @@ FER-2013 dataset which was published on International Conference on Machine Lear
 
 ## Demo
 ![Test image 1](https://github.com/ankita1408/Emotion_Detection/blob/main/Screenshot%202024-02-02%20145641.png)
-![Test image 2](prediction/Surprise.jpg)
-![Test image 2](prediction/Sad.jpg)
+![Test image 2](https://github.com/ankita1408/Emotion_Detection/blob/main/Screenshot%202024-02-02%20145707.png)
+
 
 
 ## Dataset
