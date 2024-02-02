@@ -4,7 +4,7 @@ Realtime cam or Image or Video.The model is built using deep convolutional netwo
 FER-2013 dataset which was published on International Conference on Machine Learning (ICML). 
 
 ## Demo
-![Test image 1](prediction/Happy.jpg)
+![Test image 1](https://github.com/ankita1408/Emotion_Detection/blob/main/Screenshot%202024-02-02%20145641.png)
 ![Test image 2](prediction/Surprise.jpg)
 ![Test image 2](prediction/Sad.jpg)
 
